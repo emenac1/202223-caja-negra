@@ -42,7 +42,14 @@
 			<artifactId>junit-platform-suite</artifactId>
 			<version>1.8.1</version>
 			<scope>test</scope>
-		</dependency>		
+		</dependency>
+    <dependency>
+      <groupId>binarytree</groupId>
+      <artifactId>binarytree</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>C:\Users\edume\Documents\Universidad\CUARTO\VV\PracticaCajaNegra\202223-caja-negra\binarytree.jar</systemPath>
+    </dependency>
 	</dependencies>
 
   <build>
